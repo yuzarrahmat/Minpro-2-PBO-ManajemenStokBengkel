@@ -1,0 +1,6 @@
+com\mycompany\minpro2pbo\model\Oli.class
+com\mycompany\minpro2pbo\model\Sparepart.class
+com\mycompany\minpro2pbo\main\Minpro2PBO.class
+com\mycompany\minpro2pbo\view\BengkelView.class
+com\mycompany\minpro2pbo\controller\BengkelController.class
+com\mycompany\minpro2pbo\model\BarangBengkel.class
