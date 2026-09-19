@@ -1,8 +1,6 @@
 # Minpro-2-PBO-ManajemenStokBengkel
 Nama : Yuzar Rahmat Rafi Alhaq, NIM : 2509116025, Sistem Informasi A '2025
 
-# Minpro-2-PBO-SistemStokBengkel
-
 ## 1. Deskripsi Singkat Program
 **Sistem Stok Bengkel Motor** adalah aplikasi berbasis Command Line Interface (CLI) yang dibangun menggunakan bahasa pemrograman Java. Program ini dirancang untuk membantu pengelolaan inventaris barang di bengkel motor secara terstruktur. Sistem menyediakan fungsi CRUD (Create, Read, Update, Delete) untuk mengelola data barang, yang terbagi menjadi dua kategori utama: **Sparepart** dan **Oli Pelumas**.
 
